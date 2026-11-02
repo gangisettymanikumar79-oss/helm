@@ -3,4 +3,5 @@ name: nginx
 version: 1.0.2 # This is Helm Chart version
 description: upgrading to 1.31.8-alpine
 appVersion: 1.31.8-alpine # application version
+
  
