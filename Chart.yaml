@@ -1,7 +1,7 @@
 apiVersion: v2
 name: nginx
-version: 1.0.2 # This is Helm Chart version
-description: upgrading to 1.31.8-alpine
-appVersion: 1.31.8-alpine # application version
+version: 1.30.6 # This is Helm Chart version
+description: upgrading to 1.30.6
+appVersion: 1.30.6 # application version
 
  
